@@ -62,9 +62,7 @@ app = Flask(__name__)
 
 # Predefined list of assets with name and location
 assets = [
-    {'id': 1, 'name': 'Solar Panel', 'location': 'North Sea', 'weather_effect': None, 'temperature': None, 'condition': None},
-    {'id': 2, 'name': 'Battery Storage', 'location': 'North Sea', 'weather_effect': None, 'temperature': None, 'condition': None},
-    {'id': 3, 'name': 'Inverter', 'location': 'North Sea', 'weather_effect': None, 'temperature': None, 'condition': None}
+    
 ]
 
 # Mapping of weather conditions to their possible effects on equipment
