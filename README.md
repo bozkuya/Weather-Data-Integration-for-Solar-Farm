@@ -4,7 +4,8 @@
 
 This project provides an Asset Management System specifically designed for a solar farm. It integrates real-time weather data to assess the operational status of different assets and predicts possible impacts on them based on the weather conditions.
 
-![image](https://github.com/bozkuya/Whether-Data-Integration-for-Solar-Farm/assets/129911627/700a8f18-a72c-4167-a0e6-1d928e4083cd)
+
+![image](https://github.com/bozkuya/Weather-Data-Integration-for-Solar-Farm/assets/129911627/c66fecbd-4791-4aad-812a-6c508a770e07)
 
 
 ## Features
