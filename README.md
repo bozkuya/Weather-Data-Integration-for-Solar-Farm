@@ -1,4 +1,4 @@
-# Whether Data Integration for Solar Farm
+# Weather Data Integration for Solar Farm
 
 ## Description
 
